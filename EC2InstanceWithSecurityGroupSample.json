@@ -26,9 +26,9 @@
     },
 
      "BlueGreen" : {
-       "Description" : "Is this blue or green?",
+       "Description" : "Is this blue or green? Or more?",
        "Type": "String",
-       "AllowedValues" : [ "blue", "green"],
+       "AllowedValues" : [ "blue", "green", "red" , "orange", "yellow", "indigo", "violet"],
        "Default": "green"
     },
 
